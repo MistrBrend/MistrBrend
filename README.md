@@ -1,7 +1,7 @@
 - 👋 Hi, I’m MistrBrend
 - 👀 I’m interested in Front-end development
 - 🌱 I’m currently learning software development
-- 📫 How to reach me ->  | Email: mistrbrend@gmail.com | - | Phone number: .... | 
+- 📫 How to reach me ->  | Email: mistrbrend@gmail.com |
     
 
 <!---
