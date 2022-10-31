@@ -1,10 +1,4 @@
-- 👋 Hi, I’m MistrBrend
-- 👀 I’m interested in Front-end development
-- 🌱 I’m currently learning software development
-- 📫 How to reach me ->  | Email: mistrbrend@gmail.com |
-    
-
-<!---
-MistrBrend/MistrBrend is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, my name is Brendan Kersten.
+- 👀 I’m mostly interested in Front-end development, and PHP development.
+- 🌱 I’m currently learning/following software development.
+- 📫 How to reach me ->  | Email: mistrbrend@gmail.com | 
