@@ -18,9 +18,9 @@
 <h3>Statistics</h3>
 <br />
 
-<p><img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=mistrbrend&show_icons=true&locale=en&layout=compact" alt="mistrbrend" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mistrbrend&show_icons=true&locale=en&layout=compact" alt="mistrbrend" /></p>
 
-<p>&nbsp;<img align="" src="https://github-readme-stats.vercel.app/api?username=mistrbrend&show_icons=true&locale=en" alt="mistrbrend" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=mistrbrend&show_icons=true&locale=en" alt="mistrbrend" /></p>
 
-<p><img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=mistrbrend&" alt="mistrbrend" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mistrbrend&" alt="mistrbrend" /></p>
 
