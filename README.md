@@ -15,12 +15,12 @@
 
 <br />
 <br />
-<h3>Statistics</h3>
+<h3 align="center">Statistics</h3>
 <br />
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mistrbrend&show_icons=true&locale=en&layout=compact" alt="mistrbrend" /></p>
 
-<p>&nbsp;<img float="left" src="https://github-readme-stats.vercel.app/api?username=mistrbrend&show_icons=true&locale=en" alt="mistrbrend" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mistrbrend&show_icons=true&locale=en" alt="mistrbrend" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mistrbrend&" alt="mistrbrend" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mistrbrend&" alt="mistrbrend" /></p>
 
