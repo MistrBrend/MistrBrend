@@ -23,7 +23,6 @@
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=mistrbrend&show_icons=true&locale=en" alt="mistrbrend" /></p>
 <br />
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mistrbrend&" alt="mistrbrend" /></p>
-  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mistrbrend&label=Profile%20views&color=0e75b6&style=flat" alt="mistrbrend" /> </p>
 </div>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mistrbrend&label=Profile%20views&color=0e75b6&style=flat" alt="mistrbrend" /> </p>
