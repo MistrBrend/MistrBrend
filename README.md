@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mistrbrend&label=Profile%20views&color=0e75b6&style=flat" alt="mistrbrend" /> </p>
 
 <h3 align="left">Connect with me:</h3>
-<h4 align="left">MistrBrend@gmail.com</h4>
+<h4>MistrBrend@gmail.com</h4>
 <p align="left">
 </p>
 
