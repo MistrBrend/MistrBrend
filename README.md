@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Brendan</h1>
 <h3 align="center">I’m mostly interested in Front-end development, and PHP development.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mistrbrend&label=Profile%20views&color=0e75b6&style=flat" alt="mistrbrend" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mistrbrend&label=Profile%20views&color=0e75b6&style=flat" alt="mistrbrend" /> </p>
 
 <h3 align="center">Connect with me:</h3>
 <h4 align="center">MistrBrend@gmail.com</h4>
 <br/>
-<p align="left">
+<p align="center">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
