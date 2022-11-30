@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Brendan</h1>
+<h1 align="center">Hi there 👋, I'm Brendan Kersten</h1>
 <h3 align="center">I’m mostly interested in Front-end development, and PHP development.</h3>
 
 
